@@ -1,0 +1,7 @@
+build
+dist
+coverage
+.eslintrc.js
+index.html
+
+src/resources/plugins/*
