@@ -21,6 +21,7 @@
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-react": "^7.16.0",
     "@babel/preset-typescript": "^7.16.0",
+    "@babel/runtime": "^7.16.5",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@types/babel__core": "^7",
     "@types/babel__plugin-transform-runtime": "^7",
